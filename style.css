@@ -97,7 +97,13 @@ ul {
 .primary-text {
   color: #e00000;
 }
-
+#up{
+  font-size: 30px;
+  font-weight: bold;
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+}
 /* Header Start */
 header {
   width: 100%;
